@@ -2,7 +2,7 @@
 """
 Pywikipedia script that allows the blocking and unblocking of specific users, or a list of users.
 
-When using a file to block/unblock users en masse, please be sure to seperate the usernames with a comma-space ", " instead of new lines, otherwise the masse block/unblock won't work.
+When using a file to block/unblock users en masse, please be sure to separate the usernames with a comma-space ", " instead of new lines, otherwise the masse block/unblock won't work.
 
 Available parameters:
 
