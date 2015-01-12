@@ -20,7 +20,7 @@ Available parameters:
 #
 # (C) Corey Chambers, 2014
 #
-# http://c.wikia.com/wiki/User:Corey_Chambers
+# http://c.wikia.com/wiki/User:Cörey
 #
 # Distributed under the terms of the MIT license.
 #
